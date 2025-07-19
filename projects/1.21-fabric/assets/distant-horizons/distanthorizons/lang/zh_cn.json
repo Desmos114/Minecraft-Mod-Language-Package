@@ -58,7 +58,7 @@
   "distanthorizons.config.client.quickEnableRendering":
     "启用渲染",
   "distanthorizons.config.client.quickEnableRendering.@tooltip":
-    "确定 Distant Horizons 是否渲染 LOD。",
+    "确定是否使用 Distant Horizons 多层次渲染",
   
   "distanthorizons.config.client.quickShowWorldGenProgress":
     "Show LOD Gen/Import Progress",
