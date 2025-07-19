@@ -1,64 +1,64 @@
 {
   "distanthorizons.title":
-	"Distant Horizons",
+	"Distant Horizons（遥远的地平线）",
 
 
     
   "distanthorizons.general.true":
-    "True",
+    "开",
   "distanthorizons.general.false":
-    "False",
+    "关",
   "distanthorizons.general.yes":
-    "Yes",
+    "是",
   "distanthorizons.general.no":
-    "No",
+    "否",
   "distanthorizons.general.back":
-    "Back",
+    "返回",
   "distanthorizons.general.next":
-    "Next",
+    "下一页",
   "distanthorizons.general.done":
-    "Done",
+    "完成",
   "distanthorizons.general.cancel":
-    "Cancel",
+    "取消",
   "distanthorizons.general.reset":
-    "Reset",
+    "重置",
 
 
 
 
   "distanthorizons.updater.title":
-    "Distant Horizons auto updater",
+    "Distant Horizons 自动更新程序",
   "distanthorizons.updater.text1":
-    "§lNew update available!",
+    "§l有可用的更新！",
   "distanthorizons.updater.text2":
-    "§fDo you want to update from %s§f to %s§f?",
+    "§f你想从 %s§f 更新到 %s§f 吗？",
   "distanthorizons.updater.later":
-    "Not now",
+    "暂时不要",
   "distanthorizons.updater.never":
-    "Don't show again",
+    "不再显示",
   "distanthorizons.updater.update":
-    "Update",
+    "更新",
   "distanthorizons.updater.update.@tooltip":
-    "Updates the mod this one time\n(Updates when game is closed)",
+    "更新模组\n（在游戏关闭时更新）",
   "distanthorizons.updater.silent":
-    "Always silent update",
+    "始终静默更新",
   "distanthorizons.updater.silent.@tooltip":
-    "Every time an update is available, it would update\n(§6WARNING§r: This wont prompt you when updating)",
+    "自动更新\n（§6警告§r: 此后更新时将不再提示）",
   "distanthorizons.updater.waitingForClose":
-    "Distant Horizons will finish updating once the game restarts",
+    "Distant Horizons 将在游戏重启后完成更新",
   
   
   
   
   "distanthorizons.config.title":
-    "Distant Horizons config",
+    "Distant Horizons 配置",
   "distanthorizons.config.client":
-    "Client",
+    "客户端",
   
   "distanthorizons.config.client.quickEnableRendering":
-    "Enable Rendering",
+    "启用渲染",
   "distanthorizons.config.client.quickEnableRendering.@tooltip":
-    "Determines if Distant Horizons Renders LODs.",
+    "确定 Distant Horizons 是否渲染 LOD。",
   
   "distanthorizons.config.client.quickShowWorldGenProgress":
     "Show LOD Gen/Import Progress",
